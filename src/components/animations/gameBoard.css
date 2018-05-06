@@ -1,0 +1,80 @@
+
+:local(.gameBoard){
+  width: 100%;
+  height: 85%;
+
+  position: relative;
+
+  z-index: -100;
+}
+
+:local(.canvas){
+  position: absolute;
+
+  margin: auto;
+
+  left: 0;
+  right: 0;
+
+  transition: bottom 0.15s;
+
+  background-image: url('/img/stars-background.png')
+}
+
+:local(.rocket){
+  position: absolute;
+
+  margin: auto;
+
+  left: 0;
+  right: 0;
+  bottom: 20px;
+
+  width: 50px;
+  height: 70px;
+}
+
+:local(.planet){
+  display: block;
+  margin: auto;
+}
+
+:local(.iconEarth){
+  width: 100px;
+}
+
+:local(.iconMoon){
+  width: 10px;
+}
+
+:local(.iconSatellite){
+  width: 30px;
+}
+
+:local(.iconMars){
+  width: 80px;
+}
+
+:local(.iconJupiter){
+  width: 450px;
+}
+
+:local(.iconSaturne){
+  width: 450px;
+}
+
+:local(.iconUranus){
+  width: 200px;
+}
+
+:local(.iconNeptune){
+  width: 200px;
+}
+
+:local(.iconBlackhole){
+  width: 450px;
+}
+
+:local(.iconGalaxy){
+  width: 450px;
+}

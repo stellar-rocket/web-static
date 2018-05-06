@@ -1,0 +1,50 @@
+@import "../../static/css/theme.css";
+
+:local(.infos){
+  margin: 0 100px;
+  padding: 16px;
+
+  min-width: 580px;
+
+  background-color: var(--lightBlueGrey);
+
+  color: var(--lightGrey);
+}
+
+:local(.title){
+  font-family: 'Krona One', sans-serif;
+  font-size: 20px;
+}
+
+:local(.section){
+  padding: 16px;
+}
+
+:local(.subTitle){
+  font-family: 'Krona One', sans-serif;
+  font-size: 15px;
+}
+
+:local(.list){
+  list-style-type: none;
+}
+
+:local(.list) li{
+  margin: 10px auto;
+  display: block;
+}
+
+:local(.list) label{
+  display: block;
+	float: left;
+
+  width: 200px !important;
+
+  font-size: 15px !important;
+  font-weight: bold !important;
+}
+
+:local(.locked) {
+  font-weight: bold !important;
+  color: var(--red);
+}

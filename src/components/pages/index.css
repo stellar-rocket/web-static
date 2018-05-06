@@ -1,0 +1,38 @@
+@import "../../static/css/theme.css";
+
+:local(.page){
+    padding: 100px 0;
+    
+    color: var(--lightGrey);
+    text-align: center;
+}
+
+:local(.title){
+    margin-top: 0;
+
+    font-family: 'Krona One', sans-serif;
+    font-size: 50px;
+}
+
+:local(.subtitle){
+    font-family: 'Krona One', sans-serif;
+    font-size: 15px;
+}
+
+:local(.rocket){
+    width: 25%;
+    height: 40%;
+    min-width: 250px;
+
+    margin: 5vh 0;
+}
+
+:local(.forms){
+    margin: 40px 0;
+}
+
+:local(.buttonSpacer){
+    display: inline-block;
+
+    margin: 0 20px;
+}

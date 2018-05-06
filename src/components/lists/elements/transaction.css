@@ -1,0 +1,41 @@
+@import "../../../static/css/theme.css";
+
+:local(.profit), :local(.done){
+    color: var(--green);
+}
+
+:local(.deficit), :local(.refused){
+    color: var(--red);
+}
+
+:local(.progress){
+    color: var(--orange);
+}
+
+:local(.item){
+
+}
+
+:local(.text){
+    display: flex;
+    padding-left: 20% !important;
+}
+
+:local(.type){
+   flex: 1;
+}
+:local(.date){
+    flex: 3;
+}
+
+:local(.itemProfit){
+    background-color: var(--transparentGreen) !important;
+}
+
+:local(.itemDeficit){
+    background-color: var(--transparentRed) !important;
+}
+
+:local(.leftValue){
+    padding-top: 5px !important;
+}

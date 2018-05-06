@@ -1,0 +1,16 @@
+:local(.input){
+  display: block !important;
+  width: 100% !important;
+}
+
+:local(.submitButton){
+  margin: 10px auto;
+}
+
+:local(.snackbar) *{
+    font-size: 15px;
+}
+
+:local(.snackbar) > *{
+    background-color: var(--green) !important;
+}

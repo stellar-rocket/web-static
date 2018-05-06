@@ -1,0 +1,27 @@
+:local(.page){
+    margin: auto;
+
+    padding: 100px 0;
+
+    width: 50%;
+    min-width: 300px;
+    max-width: 500px;
+}
+
+:local(.paper){
+    padding: 20px;
+
+    text-align: center;
+
+    color: var(--lightGrey) !important;
+}
+
+:local(.title){
+    font-family: 'Krona One', sans-serif;
+    font-size: 25px;
+}
+
+:local(.rocket){
+    width: 20%;
+    height: 100px;
+}

@@ -1,0 +1,24 @@
+@import "../../static/css/theme.css";
+
+:local(.page){
+    padding: 100px 0;
+
+    text-align: center;
+}
+
+:local(.title){
+    margin: 0 0 50px 0;
+    font-size: 50px;
+
+    color: var(--lightGrey)
+}
+
+:local(.progress){
+    width: 50% !important;
+
+    height: 20px !important;
+
+    margin: auto !important;
+
+    color: var(--lightBlue)
+}

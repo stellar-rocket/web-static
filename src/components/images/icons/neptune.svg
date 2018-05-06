@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg viewBox="0 7 56 48" xmlns="http://www.w3.org/2000/svg">
+<style>.netptuneA{fill:#556080;}.netptuneB{fill:none;stroke-width:2;stroke:#556080;}</style>
+<circle cx="27.5" cy="31" r="24" fill="#8697CB"/>
+<circle cx="25" cy="29.5" r="18.5" fill="#92A8DD"/>
+<circle cx="20.5" cy="27" r="11" fill="#A4B9ED"/>
+<path class="netptuneA" d="m33 23.4c-2.5 0-4-1.6-4.5-3.5-0.3-1.1-1.4-1.6-2.4-1.1-2.1 1.2-3.6 3.4-3.6 5.9-0.1 3.8 3 7.2 6.9 7.2 3.9 0.2 7.1-3 7.1-6.9v-0.2c0-1.1-1.1-1.9-2.1-1.6-0.4 0.2-0.9 0.2-1.4 0.2z"/>
+<path class="netptuneA" d="m8.6 16.2c0.3 2.2 2.2 3.8 4.4 3.8 2.5 0 4.5-2 4.5-4.5 0-2.1-1.5-3.9-3.5-4.4-2 1.4-3.9 3.2-5.4 5.1z"/>
+<path class="netptuneB" d="m45 22.2c-1.5 0.7-3.3 0.1-4-1.4"/>
+<path class="netptuneB" d="m27.5 11c0 1.7-1.3 3-3 3"/>
+<path class="netptuneB" d="m23.5 36c0 1.7-1.3 3-3 3"/>
+<path class="netptuneB" d="m40.2 31.5c1.5 0.6 2.3 2.4 1.6 3.9"/>
+<path class="netptuneB" d="m10.6 31c1.5 0.6 2.3 2.4 1.6 3.9"/>
+</svg>

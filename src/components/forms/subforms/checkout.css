@@ -1,0 +1,8 @@
+:local(.form){
+  text-align: center;
+}
+
+:local(.button){
+  margin-top: 80px;
+  transform: scale(1.5)
+}

@@ -1,0 +1,23 @@
+@import "../../static/css/theme.css";
+
+:local(.crash){
+  height: 80vh;
+
+  overflow: hidden;
+}
+
+:local(.multiplicator){
+  text-align: center;
+
+  font-family: 'Krona One', sans-serif;
+  font-size: 50px;
+  color: var(--lightGrey);
+}
+
+:local(.multiplicatorStarted){
+  color: var(--green);
+}
+
+:local(.multiplicatorCrashed){
+  color: var(--red);
+}

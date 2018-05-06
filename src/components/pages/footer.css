@@ -1,0 +1,34 @@
+@import "../../static/css/theme.css";
+
+:local(.page) {
+    display: flex;
+
+    margin-top: 5px;
+
+    width: 100%;
+
+    justify-content: space-between;
+
+    color: var(--lightGrey);
+
+    background-color: var(--lightBlueGrey);
+}
+
+:local(.list) {
+    display: inline-flex;
+    flex: 1;
+
+    padding: 0 50px;
+
+    list-style-type: none;
+}
+
+:local(.list) > * {
+    flex: 1;
+
+    text-align: center;
+
+    font-family: 'Krona One', sans-serif !important;
+    font-weight: bold;
+    font-size: 16px;
+}

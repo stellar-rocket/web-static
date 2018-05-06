@@ -1,0 +1,31 @@
+@import "../../static/css/theme.css";
+
+:local(.page) {
+
+}
+
+:local(.error) {
+    overflow: hidden;
+
+    text-align: center;
+}
+
+:local(.title) {
+    font-family: 'Krona One', sans-serif;
+    font-size: 50px;
+    color: var(--lightGrey);
+}
+
+:local(.subtitle) {
+    font-family: 'Krona One', sans-serif;
+}
+
+:local(.subtitle) > * {
+    font-family: inherit;
+}
+
+:local(.image) {
+    width: 50vh;
+
+    margin: 10vh 0;
+}

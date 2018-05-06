@@ -1,0 +1,36 @@
+:local(.page){
+    display: flex;
+
+    padding-top: 65px;
+}
+
+:local(.leftPane){
+    display: flex;
+
+    flex: 1;
+    flex-direction: column;
+
+    padding-right: 2.5px;
+}
+
+:local(.topLeftPane){
+    flex: 3;
+}
+
+:local(.bottomLeftPane){
+    flex: 1;
+}
+
+:local(.rightPane){
+    flex: 1;
+
+    padding-left: 2.5px;
+}
+
+:local(.topRightPane){
+    flex: 1;
+}
+
+:local(.bottomRightPane){
+    flex: 7;
+}

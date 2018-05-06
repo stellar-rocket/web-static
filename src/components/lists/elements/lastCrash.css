@@ -1,0 +1,41 @@
+@import "../../../static/css/theme.css";
+
+:local(.item){
+  padding-bottom: 0 !important;
+
+  margin: 5px 5px !important;
+}
+
+:local(.itemProfit){
+  background-color: var(--transparentGreen) !important;
+}
+
+:local(.itemDeficit){
+  background-color: var(--transparentRed) !important;
+}
+
+:local(.text){
+  max-width: 300px;
+
+  text-overflow: ellipsis;
+  overflow: hidden;
+
+  text-align: center;
+  color: var(--lightGrey);
+}
+
+:local(.profit){
+    color: var(--green);
+}
+
+:local(.deficit){
+    color: var(--red);
+}
+
+:local(.rightValue){
+  width: auto !important;
+}
+
+:local(.leftValue){
+  top: auto !important;
+}

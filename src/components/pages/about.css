@@ -1,0 +1,35 @@
+:local(.page){
+    padding: 100px 0;
+}
+
+:local(.info){
+  margin: 0 100px;
+  padding: 16px;
+
+  min-width: 580px;
+
+  background-color: var(--lightBlueGrey);
+
+  color: var(--lightGrey);
+}
+
+:local(.section){
+  margin-bottom: 50px;
+
+  border-bottom: 1px solid var(--transparentBlack);
+}
+
+:local(.title){
+  font-size: 30px;
+}
+
+:local(.subtitle){
+  font-size: 20px;
+}
+
+:local(.text){
+  font-size: 13px;
+
+  text-align: justify;
+  text-justify: inter-word;
+}

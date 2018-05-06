@@ -1,0 +1,8 @@
+
+:local(.list){
+    min-height: 515px;
+
+    overflow-y: scroll;
+
+    background-color: var(--lightBlueGrey);
+}

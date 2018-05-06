@@ -1,0 +1,11 @@
+@import "../../static/css/theme.css";
+
+:local(.input) label {
+  color: var(--lightGrey) !important;
+
+  font-family: inherit !important;
+}
+
+:local(.input) > div > div {
+  margin-left: 0 !important;
+}

@@ -1,0 +1,13 @@
+
+:local(.form){
+    margin: auto 16px;
+}
+
+:local(.input){
+    display: block !important;
+    margin-bottom: 15px;
+}
+
+:local(.submitButton){
+    display: block;
+}

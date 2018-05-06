@@ -1,0 +1,9 @@
+@import "../../static/css/theme.css";
+
+:local(.form){
+
+}
+
+:local(.section){
+  margin-left: 25px;
+}

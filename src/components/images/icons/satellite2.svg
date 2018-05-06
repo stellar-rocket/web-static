@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg">
+<style>.satellite2A{fill:#5C546A;}.satellite2B{fill:#888693;}.satellite2C{fill:#B6B8BE;}</style>
+<path class="satellite2A" d="M72 72H24c-4.4 0-8 3.6-8 8v56h56V72z"/>
+<path class="satellite2A" d="M16 152v56c0 4.4 3.6 8 8 8h48v-64H16z"/>
+<path class="satellite2A" d="M144 136V80c0-4.4-3.6-8-8-8H88v64H144z"/>
+<path class="satellite2A" d="m88 216h48c4.4 0 8-3.6 8-8v-56h-56v64z"/>
+<path class="satellite2A" d="M16 344v56c0 4.4 3.6 8 8 8h48v-64H16z"/>
+<path class="satellite2A" d="m88 408h48c4.4 0 8-3.6 8-8v-56h-56v64z"/>
+<path class="satellite2A" d="M72 264H24c-4.4 0-8 3.6-8 8v56h56V264z"/>
+<path class="satellite2A" d="m144 328v-56c0-4.4-3.6-8-8-8h-48v64h56z"/>
+<polygon class="satellite2B" points="72 264 72 328 16 328 16 344 72 344 72 408 88 408 88 344 144 344 144 328 88 328 88 264 88 248 72 248"/>
+<polygon class="satellite2B" points="88 216 88 152 144 152 144 136 88 136 88 72 72 72 72 136 16 136 16 152 72 152 72 216 72 232 88 232"/>
+<path class="satellite2A" d="m88 232h-72c-4.4 0-8 3.6-8 8s3.6 8 8 8h160v-16h-88z"/>
+<path class="satellite2A" d="m368 152v56c0 4.4 3.6 8 8 8h48v-64h-56z"/>
+<path class="satellite2A" d="m440 216h48c4.4 0 8-3.6 8-8v-56h-56v64z"/>
+<path class="satellite2A" d="M424 72h-48c-4.4 0-8 3.6-8 8v56h56V72z"/>
+<path class="satellite2A" d="m496 136v-56c0-4.4-3.6-8-8-8h-48v64h56z"/>
+<path class="satellite2A" d="m496 328v-56c0-4.4-3.6-8-8-8h-48v64h56z"/>
+<path class="satellite2A" d="m440 408h48c4.4 0 8-3.6 8-8v-56h-56v64z"/>
+<path class="satellite2A" d="m368 344v56c0 4.4 3.6 8 8 8h48v-64h-56z"/>
+<path class="satellite2A" d="m424 264h-48c-4.4 0-8 3.6-8 8v56h56v-64z"/>
+<polygon class="satellite2B" points="424 264 424 328 368 328 368 344 424 344 424 408 440 408 440 344 496 344 496 328 440 328 440 264 440 248 424 248"/>
+<polygon class="satellite2B" points="440 216 440 152 496 152 496 136 440 136 440 72 424 72 424 136 368 136 368 152 424 152 424 216 424 232 440 232"/>
+<path class="satellite2A" d="m496 232h-160v16h160c4.4 0 8-3.6 8-8s-3.6-8-8-8z"/>
+<path class="satellite2B" d="m176 376c-4.4 0-8 3.6-8 8s3.6 8 8 8h16v-16h-16z"/>
+<path class="satellite2B" d="m336 392c4.4 0 8-3.6 8-8s-3.6-8-8-8h-16v16h16z"/>
+<path d="m288 272h-32v88c13.3 0 24 10.7 24 24s-10.7 24-24 24v88h64v-224h-32z" fill="#D5D9DE"/>
+<path class="satellite2C" d="m256 408c-13.3 0-24-10.7-24-24s10.7-24 24-24v-88h-64v224h64v-88z"/>
+<path class="satellite2B" d="m192 232h-16v24c0 8.8 7.2 16 16 16v-40z"/>
+<rect class="satellite2B" x="240" y="232" width="16" height="40"/>
+<path class="satellite2B" d="m224 216v-64h-56v44.7c0 8.3 2.8 13 8 19.3h48z"/>
+<path class="satellite2B" d="M256 0h-72c-8.8 0-16 7.2-16 16v120h88V0z"/>
+<rect class="satellite2B" x="240" y="152" width="16" height="64"/>
+<rect class="satellite2B" x="208" y="232" width="16" height="40"/>
+<path class="satellite2C" d="m336 216c5.1-6.3 8-11.2 8-19.3v-44.7h-56v64h48v16h-16v40c8.8 0 16-7.2 16-16v-8-16-16z"/>
+<rect class="satellite2C" x="256" y="152" width="16" height="64"/>
+<rect class="satellite2C" x="288" y="232" width="16" height="40"/>
+<rect class="satellite2C" x="256" y="232" width="16" height="40"/>
+<path class="satellite2C" d="M344 136V16c0-8.8-7.2-16-16-16h-72v136H344z"/>
+<path class="satellite2B" d="m256 512h72c4.4 0 8-3.6 8-8s-3.6-8-8-8h-72v16z"/>
+<polygon class="satellite2A" points="208 232 224 232 224 272 240 272 240 232 256 232 256 216 240 216 240 152 256 152 256 136 168 136 168 152 224 152 224 216 176 216 176 216 176 232 184 232 192 232 192 272 208 272"/>
+<circle class="satellite2B" cx="256" cy="384" r="24"/>
+<path class="satellite2A" d="m192 496h-8c-4.4 0-8 3.6-8 8s3.6 8 8 8h72v-16h-64z"/>
+<polygon class="satellite2B" points="320 232 328 232 336 232 336 216 288 216 288 152 344 152 344 136 256 136 256 152 272 152 272 216 256 216 256 232 272 232 272 272 288 272 288 232 304 232 304 272 320 272"/>
+</svg>

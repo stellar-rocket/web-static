@@ -1,0 +1,17 @@
+@import "../../static/css/theme.css";
+
+:local(.recaptcha){
+    margin-top: 30px;
+}
+
+:local(.recaptcha) > div > div{
+  margin: auto;
+}
+
+:local(.snackbar) > div{
+  background-color: var(--green) !important;
+}
+
+:local(.snackbarErr) > div{
+  background-color: var(--red) !important;
+}

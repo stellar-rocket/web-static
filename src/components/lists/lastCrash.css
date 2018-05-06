@@ -1,0 +1,7 @@
+:local(.list){
+  padding-bottom: 5px !important;
+
+  min-height: 200px;
+
+  background-color: var(--lightBlueGrey);
+}

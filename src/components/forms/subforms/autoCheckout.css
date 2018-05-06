@@ -1,0 +1,19 @@
+@import "../../../static/css/theme.css";
+
+:local(.form){
+    margin: auto 16px;
+}
+
+:local(.label){
+  font-size: 12px;
+  font-family: Roboto, sans-serif;
+  color: var(--transparentBlack);
+}
+
+:local(.slider) > div{
+  margin: 5px auto !important;
+}
+
+:local(.input) {
+  margin-bottom: 15px;
+}

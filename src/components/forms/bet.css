@@ -1,0 +1,42 @@
+@import "../../static/css/theme.css";
+
+:local(.bet){
+    height: 300px;
+
+    margin-bottom: 5px;
+
+    background-color: var(--lightBlueGrey);
+}
+
+:local(.balance){
+    color: var(--lightGrey);
+}
+
+:local(.balanceLabel){
+    font-size: 20px;
+    font-weight: bold;
+}
+
+:local(.balanceValue){
+    float: right;
+
+    margin-right: 16px;
+}
+
+:local(.waitscreen){
+    margin-right: 16px;
+
+    font-size: 20px !important;
+    font-weight: bold !important;
+}
+
+:local(.navBar){
+}
+
+:local(.snackbar) *{
+    font-size: 15px;
+}
+
+:local(.snackbar) > *{
+    background-color: var(--red) !important;
+}

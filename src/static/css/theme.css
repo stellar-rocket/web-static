@@ -1,0 +1,72 @@
+@import url('https://fonts.googleapis.com/css?family=Krona+One|Roboto');
+@import url('https://fonts.googleapis.com/icon?family=Material+Icons');
+
+:root {
+    --orange: #f7a253;
+    --red: #f75353;
+    --transparentRed: rgba(247, 83, 83, 0.5);
+    --green: #27AE60;
+    --transparentGreen: rgba(39, 174, 96, 0.5);
+    --blue: #5264AE;
+    --lightBlue: rgb(2, 136, 209);
+    --purple: #943DFF;
+    --lightPurple: #CF7CFF;
+    --grey: #5f5f5f;
+    --black: #1C1C1C;
+    --transparentGrey: rgba(95, 95, 95, 0.5);
+    --lightGrey: #BDBDBD;
+    --darkGrey: #3C3C3C;
+    --transparentBlack: rgba(255, 255, 255, 0.3);
+    --white: #FFFFFF;
+    --lightBlueGrey: rgb(17, 53, 71);
+    --darkBlueGrey: #0C2430;
+}
+
+body {
+    position: relative;
+
+    margin: 0px;
+
+    height: 100%;
+    min-height: 100vh;
+
+    background-color: var(--darkBlueGrey);
+}
+
+a {
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+a:link {
+    color: var(--lightBlue);
+}
+
+a:visited {
+    color: var(--blue);
+}
+
+
+/* width */
+::-webkit-scrollbar {
+    width: 15px;
+}
+
+/* Track */
+::-webkit-scrollbar-track {
+    background: rgba(0, 0, 0, 0);
+}
+
+/* Handle */
+::-webkit-scrollbar-thumb {
+    background: var(--lightBlueGrey);
+    cursor: pointer;
+}
+
+/* Handle on hover */
+::-webkit-scrollbar-thumb:hover {
+    background: var(--lightBlueGrey);
+}

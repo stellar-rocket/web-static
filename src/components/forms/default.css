@@ -1,0 +1,28 @@
+
+:local(.buttons){
+    display: flex;
+
+    margin-top: 30px;
+
+    justify-content: space-around;
+}
+
+:local(.changeButton){
+    display: inline-block;
+
+    flex: 1;
+}
+
+:local(.submitButton){
+    display: inline-block;
+
+    flex: 2;
+}
+
+:local(.recaptcha){
+    margin-top: 30px;
+}
+
+:local(.recaptcha) > div > div{
+  margin: auto;
+}

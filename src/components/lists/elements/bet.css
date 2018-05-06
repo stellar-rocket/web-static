@@ -1,0 +1,37 @@
+@import "../../../static/css/theme.css";
+
+:local(.profit){
+    color: var(--green);
+}
+
+:local(.deficit){
+    color: var(--red);
+}
+
+:local(.item){
+
+}
+
+:local(.text){
+    display: flex;
+}
+
+:local(.username){
+    flex: 3;
+}
+
+:local(.multiplicator){
+    flex: 1;
+}
+
+:local(.itemProfit){
+    background-color: var(--transparentGreen) !important;
+}
+
+:local(.itemDeficit){
+    background-color: var(--transparentRed) !important;
+}
+
+:local(.rightValue){
+    padding-top: 5px !important;
+}
